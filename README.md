@@ -1,7 +1,5 @@
 # my-portfolio
 
-Group Title: Inventory System
-
 Project Title: Pet 911 Veterinary Clinic and Grooming Salon
 
 Group Members:  
